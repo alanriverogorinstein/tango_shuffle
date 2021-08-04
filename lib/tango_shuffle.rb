@@ -32,3 +32,5 @@ end
 
 sp = ShufflePlayer.new(ARGV)
 sp.play
+
+# Test why it doesn't show up in Ruby Gems
